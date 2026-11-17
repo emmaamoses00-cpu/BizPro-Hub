@@ -1,0 +1,15 @@
+{
+  "name": "bizpro-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BizPro Hub business management dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "dotenv": "^16.4.7"
+  }
+}
